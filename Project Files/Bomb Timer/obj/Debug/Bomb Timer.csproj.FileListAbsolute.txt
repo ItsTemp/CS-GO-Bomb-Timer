@@ -1,0 +1,12 @@
+c:\users\scott\documents\visual studio 2013\Projects\Bomb Timer\Bomb Timer\bin\Debug\Bomb Timer.exe.config
+c:\users\scott\documents\visual studio 2013\Projects\Bomb Timer\Bomb Timer\bin\Debug\Bomb Timer.exe
+c:\users\scott\documents\visual studio 2013\Projects\Bomb Timer\Bomb Timer\bin\Debug\Bomb Timer.pdb
+c:\users\scott\documents\visual studio 2013\Projects\Bomb Timer\Bomb Timer\bin\Debug\CSGSI.dll
+c:\users\scott\documents\visual studio 2013\Projects\Bomb Timer\Bomb Timer\bin\Debug\Newtonsoft.Json.dll
+c:\users\scott\documents\visual studio 2013\Projects\Bomb Timer\Bomb Timer\obj\Debug\Bomb Timer.csprojResolveAssemblyReference.cache
+c:\users\scott\documents\visual studio 2013\Projects\Bomb Timer\Bomb Timer\obj\Debug\Bomb Timer.exe
+c:\users\scott\documents\visual studio 2013\Projects\Bomb Timer\Bomb Timer\obj\Debug\Bomb Timer.pdb
+c:\users\scott\documents\visual studio 2013\Projects\Bomb Timer\Bomb Timer\bin\Debug\Bomb Timer.exe.manifest
+c:\users\scott\documents\visual studio 2013\Projects\Bomb Timer\Bomb Timer\bin\Debug\Bomb Timer.application
+c:\users\scott\documents\visual studio 2013\Projects\Bomb Timer\Bomb Timer\obj\Debug\Bomb Timer.exe.manifest
+c:\users\scott\documents\visual studio 2013\Projects\Bomb Timer\Bomb Timer\obj\Debug\Bomb Timer.application
