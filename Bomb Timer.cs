@@ -105,11 +105,7 @@ namespace Bomb_Timer
         static void Title()
         {
             Console.Clear();
-            Console.WriteLine("+-------------------+");
-            Console.WriteLine("|   NextGenUpdate   |");
-            Console.WriteLine("| CS:GO Bomb Timer  |");
-            Console.WriteLine("|     By Temp       |");
-            Console.WriteLine("+-------------------+");
+            Console.WriteLine("+-------------------+\r\n| NextGenUpdate     |\r\n| CS:GO Bomb Timer  |\r\n| By Temp           |\r\n+-------------------+");
         }
     }
 }
